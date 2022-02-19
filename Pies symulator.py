@@ -1,6 +1,3 @@
-import time
-import random
-
 class Pies:
 	def __init__(self,imię = "Pies", wiek = 0):
 		self.imię = str(imię)
